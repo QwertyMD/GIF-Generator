@@ -1,1 +1,1 @@
-# GIF-Generator
+# GIF Generator (with categories)
